@@ -20,8 +20,12 @@
 ## Style Guides
 
 - [Effective Go](https://go.dev/doc/effective_go)
-- [Uber Go Style Guide](https://github.com/uber-go/guide)
+- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Google Go Style Guide](https://google.github.io/styleguide/go/)
+- [Uber Go Style Guide](https://github.com/uber-go/guide)
+- [CockroachDB Go Style Guide](https://wiki.crdb.io/wiki/spaces/CRDB/pages/181371303/Go+Golang+coding+guidelines)
+- [Thanos Go Style Guide](https://thanos.io/tip/contributing/coding-style-guide.md)
+- [Mattermost Go Style Guide](https://developers.mattermost.com/contribute/more-info/server/style-guide/)
 
 ## Language Specification
 
