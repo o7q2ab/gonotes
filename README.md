@@ -20,6 +20,7 @@
 
 ## Style Guides
 
+- [Effective Go](https://go.dev/doc/effective_go)
 - [Uber Go Style Guide](https://github.com/uber-go/guide)
 - [Google Go Style Guide](https://google.github.io/styleguide/go/)
 
