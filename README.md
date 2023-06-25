@@ -2,7 +2,6 @@
 
 - website: https://go.dev/
 - playground: https://go.dev/play/
-- language specification: https://go.dev/ref/spec
 - release history: https://go.dev/doc/devel/release
 - frequently asked questions: https://go.dev/doc/faq
 - go doc comments: https://go.dev/doc/comment
@@ -23,6 +22,18 @@
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Uber Go Style Guide](https://github.com/uber-go/guide)
 - [Google Go Style Guide](https://google.github.io/styleguide/go/)
+
+## Language Specification
+
+- https://go.dev/ref/spec
+
+Notes:
+
+- Switch statements: expression switches and type switches.
+- A "select" statement chooses which of a set of possible send or receive operations will proceed.
+- A "break" statement terminates execution of the innermost "for", "switch", or "select" statement within the same function.
+- The length of a nil slice, map or channel is 0. The capacity of a nil slice or channel is 0.
+- Receiving from a nil channel blocks forever.
 
 ## -
 - Memory Model: https://go.dev/ref/mem
