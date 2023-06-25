@@ -18,6 +18,11 @@
 - Go 1.18: https://go.dev/doc/go1.18
 - Go 1.17: https://go.dev/doc/go1.17
 
+## Style Guides
+
+- [Uber Go Style Guide](https://github.com/uber-go/guide)
+- [Google Go Style Guide](https://google.github.io/styleguide/go/)
+
 ## -
 - Memory Model: https://go.dev/ref/mem
 - A Guide to the Go Garbage Collector: https://go.dev/doc/gc-guide
