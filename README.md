@@ -59,3 +59,15 @@ timeline
     2022-08-02 : go1.19
     2023-02-01 : go1.20
 ```
+
+## [go1.18] Append to slice
+
+```
+runtime: make slice growth formula a bit smoother
+
+Instead of growing 2x for < 1024 elements and 1.25x for >= 1024 elements,
+use a somewhat smoother formula for the growth factor. Start reducing
+the growth factor after 256 elements, but slowly.
+```
+
+https://github.com/golang/go/commit/2dda92ff6f9f07eeb110ecbf0fc2d7a0ddd27f9d
