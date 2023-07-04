@@ -38,6 +38,7 @@ Notes:
 - A "break" statement terminates execution of the innermost "for", "switch", or "select" statement within the same function.
 - The length of a nil slice, map or channel is 0. The capacity of a nil slice or channel is 0.
 - Receiving from a nil channel blocks forever.
+- Slice, map, and function types are not comparable. However, as a special case, a slice, map, or function value may be compared to the predeclared identifier nil.
 
 ## -
 - Memory Model: https://go.dev/ref/mem
