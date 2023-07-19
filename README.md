@@ -53,6 +53,7 @@ Notes:
 
 ## Blog
 
+- [The Go Blog](https://go.dev/blog/)
 - [(31 March 2011) Godoc: documenting Go code](https://go.dev/blog/godoc)
 - [(12 July 2018) Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 - [(26 September 2022) Go runtime: 4 years later](https://go.dev/blog/go119runtime)
