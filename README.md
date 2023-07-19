@@ -1,20 +1,14 @@
 # Go
 
-- website: https://go.dev/
-- playground: https://go.dev/play/
+[website](https://go.dev/) | [playground](https://go.dev/play/) | [github](https://github.com/golang/go) | [twitter](https://twitter.com/golang)
+
 - release history: https://go.dev/doc/devel/release
 - standard library: https://pkg.go.dev/std
 - go command: https://pkg.go.dev/cmd/go
 
-- https://github.com/golang/go
-- https://twitter.com/golang
-
 ## Release Notes:
 
-- Go 1.20: https://go.dev/doc/go1.20
-- Go 1.19: https://go.dev/doc/go1.19
-- Go 1.18: https://go.dev/doc/go1.18
-- Go 1.17: https://go.dev/doc/go1.17
+[go1.20](https://go.dev/doc/go1.20) | [go1.19](https://go.dev/doc/go1.19) | [go1.28](https://go.dev/doc/go1.18) | [go1.17](https://go.dev/doc/go1.17)
 
 ## Style Guides
 
