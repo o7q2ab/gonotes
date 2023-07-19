@@ -5,10 +5,12 @@
 - release history: https://go.dev/doc/devel/release
 - standard library: https://pkg.go.dev/std
 - go command: https://pkg.go.dev/cmd/go
+- go modules: https://go.dev/ref/mod
+- memory model: https://go.dev/ref/mem
 
 ## Release Notes:
 
-[go1.20](https://go.dev/doc/go1.20) | [go1.19](https://go.dev/doc/go1.19) | [go1.28](https://go.dev/doc/go1.18) | [go1.17](https://go.dev/doc/go1.17)
+[go1.20](https://go.dev/doc/go1.20) | [go1.19](https://go.dev/doc/go1.19) | [go1.18](https://go.dev/doc/go1.18) | [go1.17](https://go.dev/doc/go1.17)
 
 ## Style Guides
 
@@ -32,11 +34,6 @@ Notes:
 - The length of a nil slice, map or channel is 0. The capacity of a nil slice or channel is 0.
 - Receiving from a nil channel blocks forever.
 - Slice, map, and function types are not comparable. However, as a special case, a slice, map, or function value may be compared to the predeclared identifier nil.
-
-## References
-
-- [Go Modules](https://go.dev/ref/mod)
-- [Memory Model](https://go.dev/ref/mem)
 
 ## Documentation
 
