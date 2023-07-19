@@ -10,7 +10,7 @@
 
 ## Release Notes:
 
-[go1.20](https://go.dev/doc/go1.20) | [go1.19](https://go.dev/doc/go1.19) | [go1.18](https://go.dev/doc/go1.18) | [go1.17](https://go.dev/doc/go1.17)
+[go1.20 (2023-02-01)](https://go.dev/doc/go1.20) | [go1.19 (2022-08-02)](https://go.dev/doc/go1.19) | [go1.18 (2022-03-15)](https://go.dev/doc/go1.18) | [go1.17 (2021-08-16)](https://go.dev/doc/go1.17)
 
 ## Style Guides
 
