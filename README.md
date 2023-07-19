@@ -3,12 +3,11 @@
 - website: https://go.dev/
 - playground: https://go.dev/play/
 - release history: https://go.dev/doc/devel/release
-- frequently asked questions: https://go.dev/doc/faq
-- go doc comments: https://go.dev/doc/comment
-- godoc tool: https://go.dev/blog/godoc
+- standard library: https://pkg.go.dev/std
 - go command: https://pkg.go.dev/cmd/go
-- GitHub: https://github.com/golang/go
-- Twitter: https://twitter.com/golang
+
+- https://github.com/golang/go
+- https://twitter.com/golang
 
 ## Release Notes:
 
@@ -40,11 +39,23 @@ Notes:
 - Receiving from a nil channel blocks forever.
 - Slice, map, and function types are not comparable. However, as a special case, a slice, map, or function value may be compared to the predeclared identifier nil.
 
-## -
-- Memory Model: https://go.dev/ref/mem
-- A Guide to the Go Garbage Collector: https://go.dev/doc/gc-guide
-- Deprecation of 'go get' for installing executables: https://go.dev/doc/go-get-install-deprecation
-- Getting to Go: The Journey of Go's Garbage Collector: https://go.dev/blog/ismmkeynote
+## References
+
+- [Go Modules](https://go.dev/ref/mod)
+- [Memory Model](https://go.dev/ref/mem)
+
+## Documentation
+
+- [FAQ](https://go.dev/doc/faq)
+- [Go Doc Comments](https://go.dev/doc/comment)
+- [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
+- [Deprecation of 'go get' for installing executables](https://go.dev/doc/go-get-install-deprecation)
+
+## Blog
+
+- [(31 March 2011) Godoc: documenting Go code](https://go.dev/blog/godoc)
+- [(12 July 2018) Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
+- [(26 September 2022) Go runtime: 4 years later](https://go.dev/blog/go119runtime)
 
 ```shell
 go install golang.org/x/tools/cmd/godoc@latest
