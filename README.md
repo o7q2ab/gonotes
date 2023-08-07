@@ -3,6 +3,7 @@
 [website](https://go.dev/) | [playground](https://go.dev/play/) | [github](https://github.com/golang/go) | [twitter](https://twitter.com/golang)
 
 - release history: https://go.dev/doc/devel/release
+- proposal review meetings: https://github.com/golang/go/issues/33502
 - standard library: https://pkg.go.dev/std
 - go command: https://pkg.go.dev/cmd/go
 - go modules: https://go.dev/ref/mod
