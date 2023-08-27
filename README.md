@@ -8,7 +8,8 @@
 - go command: https://pkg.go.dev/cmd/go
 - go modules: https://go.dev/ref/mod
 - memory model: https://go.dev/ref/mem
-- collection of links from ardanlabs: https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
+- list of links from `ardanlabs`: https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
+- list of links from `enocom`: https://github.com/enocom/gopher-reading-list
 
 ## Release Notes:
 
