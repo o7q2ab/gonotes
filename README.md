@@ -7,6 +7,7 @@
 - standard library: https://pkg.go.dev/std
 - go command: https://pkg.go.dev/cmd/go
 - go modules: https://go.dev/ref/mod
+- go tools: https://github.com/golang/tools
 - memory model: https://go.dev/ref/mem
 - list of links from `ardanlabs`: https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
 - list of links from `enocom`: https://github.com/enocom/gopher-reading-list
