@@ -15,7 +15,7 @@
 
 ## Release Notes:
 
-[go1.22.0 (2024-02-06)](https://go.dev/doc/go1.22) | [go1.21.0 (2023-08-08)](https://go.dev/doc/go1.21) | [go1.20 (2023-02-01)](https://go.dev/doc/go1.20) | [go1.19 (2022-08-02)](https://go.dev/doc/go1.19) | [go1.18 (2022-03-15)](https://go.dev/doc/go1.18) | [go1.17 (2021-08-16)](https://go.dev/doc/go1.17)
+[go1.23.0 (2024-08-13)](https://go.dev/doc/go1.23) | [go1.22.0 (2024-02-06)](https://go.dev/doc/go1.22) | [go1.21.0 (2023-08-08)](https://go.dev/doc/go1.21) | [go1.20 (2023-02-01)](https://go.dev/doc/go1.20) | [go1.19 (2022-08-02)](https://go.dev/doc/go1.19) | [go1.18 (2022-03-15)](https://go.dev/doc/go1.18) | [go1.17 (2021-08-16)](https://go.dev/doc/go1.17)
 
 ## Style Guides
 
